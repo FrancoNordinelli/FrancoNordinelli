@@ -8,16 +8,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on OverCome The Barrier
 - 🌱 I’m currently learning  Programmer Analyst & Bachelor in Systems
 
-- 📫 How to reach me: <a href= https://www.linkedin.com/in/franco-nordinelli/>
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/lucas-villalba-04969b228/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
+- **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   
-)
+
 - **Back-End Development**:
 
   ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
