@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on OverCome The Barrier
 - 🌱 I’m currently learning  Programmer Analyst & Bachelor in Systems
 
-- 📫 How to reach me:  <a href="https://www.linkedin.com/in/lucas-villalba-04969b228/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/franco-nordinelli/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 - **Front-End Development**:
 
